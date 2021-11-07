@@ -6,14 +6,17 @@
 
 Therefore, In this project, we focus on 2 ways to create the most effecient portfolios using Monte Carlo simulations and SciPy to create an efficient frontier, being the set of optimal portfolios that offers the highest expected return using the for a defined level of risk or the lowest risk for a given level of expected return.
 
-The stocks we use are:
+The stocks we use tp create this effecient frontier are:
 
 * Apple
 * Cisco
 * Google
 * IBM
 
+Based on the results, interpretations or insights were made about the dataset.
+
 The code is based on my own exploration of Python's functionalities and libraries.
+
 
 ## Technologies
 
